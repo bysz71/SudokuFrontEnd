@@ -1,0 +1,9 @@
+c:\users\tomato\documents\visual studio 2013\Projects\SudokuFrontEnd\SudokuFrontEnd\bin\Debug\SudokuFrontEnd.exe.config
+c:\users\tomato\documents\visual studio 2013\Projects\SudokuFrontEnd\SudokuFrontEnd\bin\Debug\SudokuFrontEnd.exe
+c:\users\tomato\documents\visual studio 2013\Projects\SudokuFrontEnd\SudokuFrontEnd\bin\Debug\SudokuFrontEnd.pdb
+c:\users\tomato\documents\visual studio 2013\Projects\SudokuFrontEnd\SudokuFrontEnd\obj\Debug\SudokuFrontEnd.csprojResolveAssemblyReference.cache
+c:\users\tomato\documents\visual studio 2013\Projects\SudokuFrontEnd\SudokuFrontEnd\obj\Debug\SudokuFrontEnd.Form1.resources
+c:\users\tomato\documents\visual studio 2013\Projects\SudokuFrontEnd\SudokuFrontEnd\obj\Debug\SudokuFrontEnd.Properties.Resources.resources
+c:\users\tomato\documents\visual studio 2013\Projects\SudokuFrontEnd\SudokuFrontEnd\obj\Debug\SudokuFrontEnd.csproj.GenerateResource.Cache
+c:\users\tomato\documents\visual studio 2013\Projects\SudokuFrontEnd\SudokuFrontEnd\obj\Debug\SudokuFrontEnd.exe
+c:\users\tomato\documents\visual studio 2013\Projects\SudokuFrontEnd\SudokuFrontEnd\obj\Debug\SudokuFrontEnd.pdb
